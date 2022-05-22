@@ -4,7 +4,7 @@ body {
   margin: 0;
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
     Helvetica Neue, sans-serif;
-  background-color: #091833;
+  background-color: #594f4f;
 }
 
 a {
@@ -17,19 +17,19 @@ a {
 }
 
 h1 {
-  color: #711c91;
+  color: #9de0ad;
   padding-left: 20px;
 }
 h2 {
-  color: #ea00d9;
+  color: #45ada8;
   padding-left: 20px;
 }
 
 h3 {
-  color: #0abdc6;
+  color: #e5fcc2;
   padding-left: 40px;
 }
 
 h4 {
-  color: #133e7c;
+  color: #45ada8;
 }
