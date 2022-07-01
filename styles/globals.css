@@ -4,7 +4,11 @@ body {
   margin: 0;
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
     Helvetica Neue, sans-serif;
-  background-color: #594f4f;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+
+  background-color: #eceff1;
 }
 
 a {
@@ -16,20 +20,26 @@ a {
   box-sizing: border-box;
 }
 
+/*https://material.io/design/color/the-color-system.html#tools-for-picking-colors*/
+
 h1 {
-  color: #9de0ad;
+  color: #546e7a;
   padding-left: 20px;
 }
 h2 {
-  color: #45ada8;
+  color: #455a64;
   padding-left: 20px;
 }
 
 h3 {
-  color: #e5fcc2;
+  color: #37474f;
   padding-left: 40px;
 }
 
 h4 {
-  color: #45ada8;
+  color: #37474f;
+}
+
+li {
+  color: #37474f;
 }
